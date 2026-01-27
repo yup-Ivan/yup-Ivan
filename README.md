@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hola, soy Iván
 
-<!--
-**yup-Ivan/yup-Ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Web  
+🔐 Estudiando ciberseguridad  
+🐍 Python | Django | JavaScript  
 
-Here are some ideas to get you started:
+## 🚀 Proyectos
+- 🔎 https://mercadotoday.es & https://a2pasos.es
+- 🛠️ Apps con Django + Docker
+- 🛰️ Proyectos con ESP32
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacto
+- LinkedIn: https://www.linkedin.com/in/ivan-brotons-portero
