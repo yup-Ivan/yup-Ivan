@@ -2,7 +2,7 @@
 
 💻 Desarrollador Web  
 🔐 Estudiando ciberseguridad  
-🐍 Python | Django | JavaScript  
+🐍 Python | Django | Selenium | JS ... <3  
 🛰 FPV ADDICT
 
 ## 🚀 Proyectos
