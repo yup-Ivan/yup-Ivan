@@ -3,6 +3,7 @@
 💻 Desarrollador Web  
 🔐 Estudiando ciberseguridad  
 🐍 Python | Django | JavaScript  
+🛰 FPV ADDICT
 
 ## 🚀 Proyectos
 - 🔎 https://mercadotoday.es & https://a2pasos.es
