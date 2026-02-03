@@ -3,10 +3,12 @@
 💻 Desarrollador Web  
 🔐 Estudiando ciberseguridad  
 🐍 Python | Django | Selenium | JS ... <3  
-🛰 FPV ADDICT
+🛰 FPV addict
 
 ## 🚀 Proyectos
-- 🔎 https://mercadotoday.es & https://a2pasos.es
+- 🔎 My web proyects:
+    - https://mercadotoday.es
+    - https://a2pasos.es
 - 🛠️ Apps con Django + Docker
 - 🛰️ Proyectos con ESP32
 
