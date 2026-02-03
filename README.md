@@ -12,3 +12,4 @@
 
 ## 📫 Contacto
 - LinkedIn: https://www.linkedin.com/in/ivan-brotons-portero
+- Mail: yupivangh@gmail.com
